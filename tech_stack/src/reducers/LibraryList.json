@@ -1,0 +1,53 @@
+[
+    {
+        "id": 0,
+        "title": "Webpack",
+        "description": "Webpack is a free and open-source module bundler for JavaScript. It is made primarily for JavaScript, but it can transform front-end assets such as HTML, CSS, and images if the corresponding loaders are included."
+    },
+    {
+        "id": 1,
+        "title": "React",
+        "description": "React is a free and open-source front-end JavaScript library for building user interfaces based on components."
+    },
+    {
+        "id": 2,
+        "title": "Redux",
+        "description": "Redux is a predictable state container designed to help you write JavaScript apps that behave consistently across client, server, and native environments, and are easy to test."
+    },
+    {
+        "id": 3,
+        "title": "React-Redux",
+        "description": "Redux is an open-source JavaScript library for managing and centralizing application state. It is most commonly used with libraries such as React or Angular for building user interfaces."
+    },
+    {
+        "id": 4,
+        "title": "Redux",
+        "description": "Redux is a predictable state container designed to help you write JavaScript apps that behave consistently across client, server, and native environments, and are easy to test."
+    },
+    {
+        "id": 5,
+        "title": "Redux",
+        "description": "Redux is a predictable state container designed to help you write JavaScript apps that behave consistently across client, server, and native environments, and are easy to test."
+    },
+    {
+        "id": 6,
+        "title": "Redux",
+        "description": "Redux is a predictable state container designed to help you write JavaScript apps that behave consistently across client, server, and native environments, and are easy to test."
+    },
+    {
+        "id": 7,
+        "title": "Redux",
+        "description": "Redux is a predictable state container designed to help you write JavaScript apps that behave consistently across client, server, and native environments, and are easy to test."
+    },
+    {
+        "id": 8,
+        "title": "Redux",
+        "description": "Redux is a predictable state container designed to help you write JavaScript apps that behave consistently across client, server, and native environments, and are easy to test."
+    },
+    {
+        "id": 9,
+        "title": "Redux",
+        "description": "Redux is a predictable state container designed to help you write JavaScript apps that behave consistently across client, server, and native environments, and are easy to test."
+    }
+    
+]
