@@ -8,12 +8,16 @@ import firebase from 'firebase/compat/app';
 import ReduxThunk from 'redux-thunk';
 import reducers from './reducers';
 import LoginForm from './components/LoginForm';
+import Router from './Router';
+
+
 
 class App extends Component {
-    UNSAFE_componentWillMount() {
+    componentDidMount() {
         firebase.initializeApp({
             apiKey: "AIzaSyBFD8X_LTDu4wkiStygMf1fSB4cUwkbS0o",
             authDomain: "manager-995c6.firebaseapp.com",
+            databaseURL: "https://manager-995c6-default-rtdb.europe-west1.firebasedatabase.app",
             projectId: "manager-995c6",
             storageBucket: "manager-995c6.appspot.com",
             messagingSenderId: "792480100506",
@@ -28,7 +32,7 @@ class App extends Component {
 
         return (
             <Provider store={store}>
-                <LoginForm />
+                <Router />
             </Provider>
         );
     }
