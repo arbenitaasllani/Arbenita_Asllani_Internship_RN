@@ -32,8 +32,7 @@ const Card = props => {
                 <Feather 
                     
                     name="heart"
-                    width={24}        
-                    height={24}
+                    size={24}
                     onPress={() => {
                         dispatch(newsAction.toggleFavorites(props.url))
                     }}
